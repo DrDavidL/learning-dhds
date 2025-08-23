@@ -17,8 +17,8 @@
   ## 🔬 Specialized Applications
 
   ### Healthcare Case Studies
-  - **[Stroke LLM Analysis (Complete)](Stroke_LLM_Example_Analysis_Done.ipynb)** - AI-powered stroke data analysis with LLM integration
-  - **[Stroke Analysis (Your Turn)](Stroke_Your_Turn_with_LLM_Analysis.ipynb)** - Hands-on stroke analysis practice with LLM tools
+  - **[Stroke AI Generated Analysis (Complete)](Stroke_AI_Analysis.ipynb)** - AI-powered stroke data analysis with LLM integration
+  - **[Stroke Analysis - Your Turn](Stroke_Your_Turn_with_LLM_Analysis.ipynb)** - Hands-on stroke analysis practice with LLM tools
 
   ### AI-Powered Tools
   - **[Case Simulation with AI](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Using AI for medical case simulation
