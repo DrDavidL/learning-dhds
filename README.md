@@ -21,9 +21,9 @@
   - **[Stroke Analysis - Your Turn](Stroke_Your_Turn_with_LLM_Analysis.ipynb)** - Hands-on stroke analysis practice with LLM tools
 
   ### AI-Powered Tools
-  - **[Case Simulation with AI](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Using AI for medical case simulation
-  - **[AI-Crafted PubMed Searches](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Leveraging AI to improve literature searches
-  - **[AutoAnalyzer with Public Data](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Automated analysis tools for public datasets
+  - **[Case Simulation with AI](https://lof-sim.azurewebsites.net/)** - Password required. Using AI for medical case simulation
+  - **[AI-Crafted PubMed Searches](https://pubmed-aide.azurewebsites.net/)** - NU Authentication required. Leveraging AI to improve literature searches
+  - **[AutoAnalyzer with Public Data](https://autoanalyze.azurewebsites.net/)** - NU Authentication required. Automated analysis tools for public datasets. 
 
   ## 🛠️ Technical Resources
 
