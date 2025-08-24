@@ -28,12 +28,12 @@
   ## 🛠️ Technical Resources
 
   ### Data Access & Management
-  - **[Retrieve Public Datasets](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Methods for accessing and working with public health datasets
+  - **[Retrieve Public Datasets](Retrieve_Public_Datasets.ipynb)** - Methods for accessing and working with public health datasets
 
   ### Local Development Environment
-  - **[Run Local LLM in Notebook](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Setting up local language models
-  - **[Ollama for Local Models](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Using Ollama for local model deployment
-  - **[Secure Local Notebooks](https://drive.google.com/drive/folders/1HuoRGN4vVJn7Muhj4xHdYjE2YVFjWqlC)** - Best practices for secure local notebook environments
+  - **[Run Local LLM in Notebook](https://github.com/DrDavidL/local-llm)** - Setting up local language models
+  - **[Ollama for Local Models](https://ollama.com/)** - Install Ollama for local model deployment - your private chat interface (and more)
+  - **[Secure Local Notebooks](https://github.com/DrDavidL/local-colab)** - When data cannot be shared - Best practices for secure local notebook environments
 
   ## 🚀 Getting Started
 
