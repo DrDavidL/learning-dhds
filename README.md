@@ -1,4 +1,4 @@
-  # Digital Health & Data Science Learning Resources
+  # AI, Digital Health, & Data Science Learning Resources
 
   A curated collection of notebooks and resources for learning data science with applications in digital health and healthcare analytics.
 
