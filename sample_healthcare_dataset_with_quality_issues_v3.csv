@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,BP_sys,BP_dia,Glucose,Diagnosis_Raw,Diagnosis_Standardized,Note_Text
+1000,999.0,Female,129,62,128.33189428142634,rule-out HTN,HTN,lab pending
+1001,81.0,F,118,73,127.0935908978821,Chronic kidney disease stage 3,CKD,—
+1002,73.0,M,118,71,61.88726597346491,Ischemic heart disease,CAD,lab pending
+1003,31.0,M,153,76,,I10,HTN,lab pending
+1004,51.0,M,103,75,54.19256500480894,rule-out HTN,HTN,—
+1005,89.0,M,159,101,88.83717357643356,J44.9,COPD,
+1006,42.0,M,143,,113.2001801895621,T2DM,T2DM,lost followup
+1007,66.0,F,129,97,135.34619329860186,Hypertension,HTN,improved on meds
+1008,50.0,Male,172,87,95.42745577646834,probable DM2,T2DM,—
+1009,63.0,Male,133,79,138.6567374922635,J44.9,COPD,lab pending
+1010,22.0,Female,174,86,93.45800231431674,Diabetes mellitus type 2,T2DM,
+1011,52.0,F,118,,109.06238670217172,COPD (unspecified),COPD,improved on meds
+1012,30.0,F,121,79,75.19795966830691,HTN,HTN,"bp high, ?adherence"
+1013,19.0,Female,131,90,66.88284551270519,Type II DM,T2DM,lab pending
+1014,55.0,Female,146,65,106.43285151019634,Type II DM,T2DM,unclear hx
+1015,42.0,F,110,85,138.81153294426764,adult-onset diabetes,T2DM,improved on meds
+1016,35.0,F,159,69,78.58925064270265,probable DM2,T2DM,"bp high, ?adherence"
+1017,85.0,F,132,84,70.32800640936833,Hypertension,HTN,—
+1018,88.0,Female,149,74,89.33453921996612,CKD3,CKD,Check A1C @ next visit
+1019,61.0,M,164,56,89.53453195835377,,Other,
+1020,82.0,Male,155,74,111.87148909700069,E11.9,T2DM,nl exam
+1021,41.0,Female,140,96,146.4795313725454,Asthma,Asthma,lab pending
+1022,45.0,Male,116,91,117.67879684917855,COPD,COPD,
+1023,88.0,Female,147,77,,adult-onset diabetes,T2DM,improved on meds
+1024,28.0,Male,116,,,—,Other,
+1025,75.0,F,144,106,137.75878474513692,Diabetes mellitus type 2,T2DM,Check A1C @ next visit
+1026,45.0,F,133,10,76.5913066037415,Ischemic heart disease,CAD,—
+1027,62.0,Female,106,111,89.56983434192068,HTN,HTN,"bp high, ?adherence"
+1028,32.0,Unknown,131,84,,Diabetes mellitus type 2,T2DM,Check A1C @ next visit
+1029,25.0,Male,149,64,85.13023915249727,Type II DM,T2DM,Check A1C @ next visit
+1030,73.0,M,167,74,83.19229772279138,CKD stage iii,CKD,lost followup
+1031,82.0,Female,134,68,145.70709119412393,Chronic kidney disease stage 3,CKD,lost followup
+1032,58.0,M,127,99,102.96953857354407,—,Other,
+1033,45.0,F,109,86,126.40201222749837,RAD,Asthma,Check A1C @ next visit
+1034,23.0,Unknown,105,79,53.3751758549091,probable DM2,T2DM,lab pending
+1035,71.0,Unknown,113,81,92.02950409769377,Hypertension,HTN,pt c/o cp last wk
+1036,89.0,Female,143,77,78.42974584471428,Ischemic heart disease,CAD,lab pending
+1037,68.0,Unknown,119,56,99.17767948930708,High blood pressure,HTN,
+1038,77.0,Female,131,85,93.0931419860532,diabtes type 2,T2DM,lost followup
+1039,19.0,M,143,104,88.69225280107263,Type II DM,T2DM,—
+1040,21.0,Female,138,90,128.22933601946733,Hypertension,HTN,lost followup
+1041,26.0,F,127,93,99.09079214400133,rule-out HTN,HTN,unclear hx
+1042,86.0,Male,122,76,75.41261332125775,Type II DM,T2DM,lab pending
+1043,50.0,F,125,97,64.03284828045031,I10,HTN,Check A1C @ next visit
+1044,37.0,F,,100,106.5299835688048,I25.10,CAD,"bp high, ?adherence"
+1045,43.0,M,133,,107.75485052672167,CAD,CAD,lab pending
+1046,56.0,Male,83,104,111.59350099716463,J44.9,COPD,unclear hx
+1047,77.0,M,115,85,111.40200069504354,CKD3,CKD,nl exam
+1048,35.0,F,105,76,59.79028733384514,CAD,CAD,—
+1049,61.0,Male,165,93,134.92460648899643,COPD,COPD,"bp high, ?adherence"
+1050,36.0,,95,67,82.41366040996675,Diabetes mellitus type 2,T2DM,unclear hx
+1051,66.0,Female,147,72,129.62218117167657,rule-out HTN,HTN,pt c/o cp last wk
+1052,28.0,Male,135,83,57.593948039583104,diabtes type 2,T2DM,lost followup
+1053,65.0,M,109,80,66.33456656143693,rule-out HTN,HTN,—
+1054,50.0,Male,148,94,114.84878231559318,RAD,Asthma,unclear hx
+1055,62.0,M,148,,131.55518522685693,Type II DM,T2DM,Check A1C @ next visit
+1056,58.0,Female,115,75,125.07681925938076,HBP,HTN,"bp high, ?adherence"
+1057,,,133,62,107.78322464065215,,Other,
+1058,86.0,Male,110,68,79.59105656740897,J45.909,Asthma,"bp high, ?adherence"
+1059,51.0,Female,145,87,-20.0,RAD,Asthma,nl exam
+1060,19.0,Male,129,85,74.86274445968233,T2DM,T2DM,"bp high, ?adherence"
+1061,,Female,120,94,57.13041764513947,rule-out HTN,HTN,unclear hx
+1062,37.0,M,119,69,125.48287694237179,E11.9,T2DM,nl exam
+1063,68.0,Male,155,84,69.3001746206114,Chronic kidney disease stage 3,CKD,"bp high, ?adherence"
+1064,77.0,Female,163,41,165.22592029733443,Asthma,Asthma,Check A1C @ next visit
+1065,56.0,M,115,80,75.67380197328815,Coronary artery disease,CAD,Check A1C @ next visit
+1066,57.0,Female,186,77,128.8896817033699,COPD,COPD,lost followup
+1067,52.0,Male,167,87,104.7015217429796,E11.9,T2DM,lost followup
+1068,49.0,Male,126,92,110.67677556722329,diabtes type 2,T2DM,Check A1C @ next visit
+1069,22.0,Male,141,64,134.75394806025963,rule-out HTN,HTN,lab pending
+1070,46.0,F,109,104,62.531305484905495,I25.10,CAD,nl exam
+1071,31.0,Female,137,,133.02150692436624,HTN,HTN,nl exam
+1072,75.0,Male,118,97,57.307483438338295,Reactive airway disease,Asthma,nl exam
+1073,83.0,Male,155,91,95.33980028061619,Hypertension,HTN,"bp high, ?adherence"
+1074,38.0,M,,62,79.62597025842912,rule-out HTN,HTN,
+1075,35.0,F,161,63,71.13372423463366,I25.10,CAD,lost followup
+1076,80.0,Female,159,93,125.37112452002542,Type II diabetes,T2DM,unclear hx
+1077,22.0,Female,131,87,107.54514148915254,Diabetes mellitus type 2,T2DM,pt c/o cp last wk
+1078,57.0,,,88,75.34638362190316,CAD,CAD,"bp high, ?adherence"
+1079,53.0,Male,129,88,85.44955372894698,Asthma,Asthma,unclear hx
+1080,39.0,Female,116,75,148.10836770973572,N18.3,CKD,pt c/o cp last wk
+1081,85.0,Female,,92,66.83849144167579,Type II diabetes,T2DM,Check A1C @ next visit
+1082,53.0,Female,176,81,85.92957926784356,rule-out HTN,HTN,nl exam
+1083,24.0,Female,125,99,110.25607569459928,High blood pressure,HTN,"bp high, ?adherence"
+1084,76.0,Unknown,155,100,74.61771550173637,Type 2 diabetes,T2DM,improved on meds
+1085,83.0,F,143,66,125.33797393056409,HBP,HTN,lost followup
+1086,57.0,Male,103,91,116.76467140652699,htn,HTN,"bp high, ?adherence"
+1087,23.0,Male,139,73,106.28289710245363,HTN,HTN,Check A1C @ next visit
+1088,55.0,F,119,77,110.70214317999641,type2 diabetes,T2DM,Check A1C @ next visit
+1089,68.0,F,137,,101.00605931988443,rule-out HTN,HTN,lab pending
+1090,28.0,Female,125,64,76.05680099905518,E11.9,T2DM,lab pending
+1091,82.0,M,,80,96.34687684625425,Chronic obstructive pulmonary disease,COPD,improved on meds
+1092,67.0,Male,147,57,124.30519966767483,COPD,COPD,—
+1093,61.0,Female,,74,86.19623487741019,CKD3,CKD,lost followup
+1094,30.0,M,114,86,73.06293456966675,High blood pressure,HTN,lab pending
+1095,22.0,Female,102,91,103.05889930494104,htn,HTN,—
+1096,52.0,M,114,70,94.71425897499928,probable DM2,T2DM,lost followup
+1097,22.0,Female,98,75,76.90515130147782,COPD,COPD,improved on meds
+1098,52.0,Female,102,73,116.73681941113833,adult-onset diabetes,T2DM,nl exam
+1099,46.0,Female,120,75,76.14559293573504,,Other,nl exam
+1100,35.0,M,145,101,92.23660599776163,probable DM2,T2DM,"bp high, ?adherence"
+1101,62.0,,98,97,129.28094270594954,Type II diabetes,T2DM,nl exam
+1102,69.0,Male,151,84,87.15200826978726,COPD (unspecified),COPD,nl exam
+1103,53.0,Unknown,153,95,155.9295614671931,HTN,HTN,lost followup
+1104,84.0,Female,162,91,103.07294462480226,Hypertension,HTN,Check A1C @ next visit
+1105,37.0,Female,145,92,46.78971268400509,I25.10,CAD,unclear hx
+1106,37.0,Male,148,93,124.60785572420738,High blood pressure,HTN,
+1107,66.0,,137,66,95.84969546041538,CKD stage iii,CKD,unclear hx
+1108,69.0,M,155,79,,diabtes type 2,T2DM,Check A1C @ next visit
+1109,33.0,Female,144,73,68.0893422674794,htn,HTN,lost followup
+1110,50.0,F,123,103,36.498736724680114,CAD,CAD,improved on meds
+1111,42.0,Female,160,69,132.59055864777346,HTN,HTN,nl exam
+1112,61.0,Female,150,85,99.55398954449714,Asthma,Asthma,
+1113,37.0,Female,110,103,101.4729914838398,J44.9,COPD,
+1114,68.0,Female,194,71,74.19527234743217,I25.10,CAD,"bp high, ?adherence"
+1115,25.0,F,119,75,100.45863330457874,probable DM2,T2DM,Check A1C @ next visit
+1116,31.0,Male,133,59,129.72662207456074,COPD,COPD,improved on meds
+1117,52.0,Male,134,93,93.85119214126856,I10,HTN,lost followup
+1118,75.0,M,126,69,83.16398450357471,RAD,Asthma,lab pending
+1119,60.0,Female,131,77,155.09761817276285,HTN,HTN,unclear hx
+1120,60.0,Male,,69,113.85066549208902,Hypertension,HTN,Check A1C @ next visit
+1121,77.0,Male,117,87,89.36072470349227,—,Other,
+1122,35.0,Male,137,68,76.36831378839715,Ischemic heart disease,CAD,pt c/o cp last wk
+1123,61.0,Female,105,65,112.13323295238206,E11.9,T2DM,unclear hx
+1124,74.0,M,165,69,93.53335866966951,rule-out HTN,HTN,nl exam
+1125,56.0,F,143,89,93.35910318794515,probable DM2,T2DM,"bp high, ?adherence"
+1126,19.0,Female,125,87,92.81145550014118,DM2,T2DM,"bp high, ?adherence"
+1127,48.0,Male,155,87,114.64735143839054,Asthma,Asthma,"bp high, ?adherence"
+1128,56.0,Male,93,89,113.63597410299474,HBP,HTN,lost followup
+1129,48.0,Male,105,60,137.11104877276492,N18.3,CKD,
+1130,64.0,Female,169,97,137.92652089654194,Unknown,Other,lost followup
+1131,65.0,Male,134,71,123.27909021688858,T2DM,T2DM,Check A1C @ next visit
+1132,77.0,M,126,75,-20.0,High blood pressure,HTN,
+1133,75.0,Female,115,67,69.40736535338065,HBP,HTN,pt c/o cp last wk
+1134,45.0,F,136,93,73.22328172292411,RAD,Asthma,pt c/o cp last wk
+1135,22.0,Unknown,120,103,109.98619996680029,HBP,HTN,
+1136,23.0,F,,66,105.3931909817775,HBP,HTN,lab pending
+1137,83.0,Male,161,66,76.09063521674614,HTN,HTN,improved on meds
+1138,60.0,Male,121,70,81.62307003560224,HTN,HTN,
+1139,18.0,Female,148,83,47.919020478382436,adult-onset diabetes,T2DM,lab pending
+1140,25.0,F,116,93,127.85653267260042,adult-onset diabetes,T2DM,
+1141,83.0,F,116,82,86.7275251659916,Ischemic heart disease,CAD,improved on meds
+1142,66.0,M,127,78,,,Other,nl exam
+1143,67.0,Female,149,91,97.81759388573064,Type 2 diabetes,T2DM,improved on meds
+1144,84.0,Female,,72,153.42274469220615,type2 diabetes,T2DM,improved on meds
+1145,84.0,Male,121,99,106.548870190579,Chronic obstructive pulmonary disease,COPD,unclear hx
+1146,75.0,Male,149,72,144.21968779634142,CKD stage iii,CKD,lost followup
+1147,81.0,Male,127,95,99.86011260197421,J45.909,Asthma,
+1148,,Male,122,90,81.90554544002683,type2 diabetes,T2DM,lost followup
+1149,51.0,Unknown,111,93,48.79038319677714,CKD stage iii,CKD,lost followup
+1150,,Female,132,68,111.59786804056851,Chronic kidney disease stage 3,CKD,improved on meds
+1151,,Female,143,94,116.01526405766839,N18.3,CKD,—
+1152,66.0,F,165,86,43.80968118809327,COPD,COPD,lost followup
+1153,18.0,Female,144,92,54.11723844258376,J45.909,Asthma,nl exam
+1154,51.0,Male,135,76,143.6495538931287,RAD,Asthma,lab pending
+1155,42.0,M,134,94,99.70173917122426,diabtes type 2,T2DM,
+1156,47.0,Female,126,84,59.257509539048414,RAD,Asthma,"bp high, ?adherence"
+1157,63.0,M,120,67,119.85492800840503,Type 2 diabetes,T2DM,nl exam
+1158,38.0,,,,54.36609249884754,Hypertension,HTN,Check A1C @ next visit
+1159,18.0,Male,130,66,,Ischemic heart disease,CAD,"bp high, ?adherence"
+1160,999.0,Unknown,123,67,90.0222286586219,HBP,HTN,"bp high, ?adherence"
+1161,27.0,Male,75,92,,HBP,HTN,Check A1C @ next visit
+1162,39.0,Male,122,69,136.11851469940865,type2 diabetes,T2DM,—
+1163,56.0,Female,86,72,65.50695671731086,Ischemic heart disease,CAD,unclear hx
+1164,46.0,F,158,76,140.8564833538031,Diabetes mellitus type 2,T2DM,lost followup
+1165,23.0,Female,135,71,102.20790272555662,Coronary artery disease,CAD,nl exam
+1166,66.0,Male,107,10,101.59605001470794,T2DM,T2DM,unclear hx
+1167,81.0,M,116,96,108.25988600337934,Asthma,Asthma,nl exam
+1168,76.0,M,,73,88.45808831201795,COPD,COPD,
+1169,53.0,M,99,92,112.35713190432044,htn,HTN,lab pending
+1170,31.0,F,144,91,98.66053413485082,—,Other,unclear hx
+1171,999.0,Unknown,133,104,152.72685193738312,Asthma,Asthma,—
+1172,69.0,Female,150,75,96.55772763387834,Hypertension,HTN,improved on meds
+1173,41.0,F,100,87,105.65656746050482,I25.10,CAD,"bp high, ?adherence"
+1174,61.0,Female,,77,120.52844703579726,Asthma,Asthma,improved on meds
+1175,42.0,Female,110,79,89.92837858061196,DM2,T2DM,lost followup
+1176,44.0,Male,142,85,131.94579990585623,Ischemic heart disease,CAD,lab pending
+1177,,F,117,110,137.4250635711432,diabtes type 2,T2DM,—
+1178,73.0,M,161,80,135.755371941862,HTN,HTN,
+1179,21.0,Female,110,79,70.5840981819829,,Other,
+1180,64.0,Male,90,72,111.4481042909355,N18.3,CKD,"bp high, ?adherence"
+1181,19.0,Male,160,68,96.48724325388665,J45.909,Asthma,unclear hx
+1182,85.0,Female,110,90,137.1041410463373,Type II diabetes,T2DM,lost followup
+1183,44.0,M,144,91,125.54098770999525,I10,HTN,lost followup
+1184,23.0,F,139,64,95.40559553961056,T2DM,T2DM,Check A1C @ next visit
+1185,51.0,Female,141,67,125.65467971618523,J44.9,COPD,"bp high, ?adherence"
+1186,62.0,Male,138,73,91.37454154135106,type2 diabetes,T2DM,unclear hx
+1187,47.0,Male,87,85,77.40058565371767,DM2,T2DM,nl exam
+1188,22.0,F,141,101,70.08878507390962,N18.3,CKD,lab pending
+1189,73.0,Male,141,71,70.67938394469039,rule-out HTN,HTN,lost followup
+1190,41.0,F,131,83,100.23528477599538,COPD,COPD,Check A1C @ next visit
+1191,33.0,M,131,88,,J44.9,COPD,Check A1C @ next visit
+1192,72.0,Female,141,60,,High blood pressure,HTN,improved on meds
+1193,76.0,Male,149,80,114.0459252592879,Chronic kidney disease stage 3,CKD,unclear hx
+1194,35.0,Male,,78,127.22159621355776,E11.9,T2DM,pt c/o cp last wk
+1195,87.0,Male,123,77,93.10100464419232,J44.9,COPD,—
+1196,58.0,F,132,67,144.09761604088297,adult-onset diabetes,T2DM,
+1197,80.0,,129,108,106.36909262270457,CKD3,CKD,improved on meds
+1198,40.0,M,149,84,93.94446327396707,Unknown,Other,"bp high, ?adherence"
+1199,54.0,Male,105,92,72.86663657943294,CKD3,CKD,pt c/o cp last wk
+1200,49.0,F,153,63,87.89927699692308,I25.10,CAD,improved on meds
+1201,77.0,M,149,81,92.1249784995468,,Other,lab pending
+1202,68.0,F,149,,45.73634489849701,Type II DM,T2DM,pt c/o cp last wk
+1203,85.0,Female,166,78,110.20753352055674,COPD,COPD,—
+1204,47.0,M,142,96,81.73402278249198,,Other,
+1205,43.0,Male,166,93,74.51060286096998,HTN,HTN,improved on meds
+1206,87.0,Male,101,77,107.71094180290618,Type II diabetes,T2DM,
+1207,69.0,Male,97,74,112.3748740027488,Asthma,Asthma,Check A1C @ next visit
+1208,72.0,F,134,62,150.5624147358754,Type II diabetes,T2DM,Check A1C @ next visit
+1209,72.0,Female,127,93,70.35272332650248,E11.9,T2DM,lab pending
+1210,35.0,Male,110,59,81.6198097834264,I10,HTN,pt c/o cp last wk
+1211,20.0,Unknown,115,79,119.83430432492979,Unknown,Other,unclear hx
+1212,,Female,170,92,60.19197978735825,I25.10,CAD,Check A1C @ next visit
+1213,77.0,Male,99,94,76.94682970152877,Ischemic heart disease,CAD,Check A1C @ next visit
+1214,26.0,Male,150,104,123.92529753819659,htn,HTN,
+1215,66.0,Male,125,97,106.87163767803646,Type II diabetes,T2DM,"bp high, ?adherence"
+1216,72.0,Female,153,83,82.96503059353672,J45.909,Asthma,lab pending
+1217,27.0,Female,139,97,129.35236928511094,J45.909,Asthma,"bp high, ?adherence"
+1218,54.0,F,153,70,148.22981891995857,Ischemic heart disease,CAD,unclear hx
+1219,77.0,F,117,79,87.59005908666485,DM2,T2DM,pt c/o cp last wk
+1220,84.0,Female,133,66,99.15100767347256,DM2,T2DM,improved on meds
+1221,47.0,Female,116,67,105.72069550311814,Unknown,Other,"bp high, ?adherence"
+1222,76.0,F,113,77,70.03515010595254,Type 2 diabetes,T2DM,"bp high, ?adherence"
+1223,49.0,F,109,68,118.00823798755694,Reactive airway disease,Asthma,lab pending
+1224,76.0,Female,119,62,70.44330295838944,diabtes type 2,T2DM,—
+1225,20.0,M,130,102,114.86557852674356,diabtes type 2,T2DM,pt c/o cp last wk
+1226,24.0,F,105,77,58.775703664900306,rule-out HTN,HTN,Check A1C @ next visit
+1227,70.0,Female,114,65,71.45365577137771,probable DM2,T2DM,improved on meds
+1228,49.0,Female,141,51,92.7789313400339,Unknown,Other,pt c/o cp last wk
+1229,88.0,Male,140,89,101.57008037452034,rule-out HTN,HTN,pt c/o cp last wk
+1230,83.0,Female,171,84,135.39775975539177,,Other,"bp high, ?adherence"
+1231,20.0,Male,142,,,Reactive airway disease,Asthma,lab pending
+1232,52.0,Male,107,96,92.2004657843673,HBP,HTN,"bp high, ?adherence"
+1233,83.0,F,125,81,61.77689362522366,—,Other,nl exam
+1234,46.0,M,123,95,79.70955679700812,Coronary artery disease,CAD,Check A1C @ next visit
+1235,70.0,M,152,89,,CKD stage iii,CKD,lab pending
+1236,80.0,F,137,79,,probable DM2,T2DM,
+1237,48.0,F,129,87,104.15277789895663,RAD,Asthma,Check A1C @ next visit
+1238,79.0,Female,139,75,120.81924831338407,Type II diabetes,T2DM,
+1239,82.0,Male,140,84,,RAD,Asthma,nl exam
+1240,71.0,Female,145,74,83.42101633600946,E11.9,T2DM,nl exam
+1241,60.0,F,94,86,168.09642814298684,—,Other,
+1242,80.0,,,71,116.32415061463928,Type II diabetes,T2DM,Check A1C @ next visit
+1243,30.0,,143,70,104.0063456335474,E11.9,T2DM,
+1244,40.0,Female,111,94,104.82946969306764,Unknown,Other,"bp high, ?adherence"
+1245,22.0,Female,,,156.42080971020155,—,Other,"bp high, ?adherence"
+1246,52.0,Male,135,52,110.43635138899026,High blood pressure,HTN,"bp high, ?adherence"
+1247,29.0,Female,108,86,106.27309595804101,Chronic obstructive pulmonary disease,COPD,"bp high, ?adherence"
+1248,67.0,F,159,64,97.84811942261025,diabtes type 2,T2DM,unclear hx
+1249,62.0,Male,127,,75.44275694230814,Asthma,Asthma,nl exam
+1250,44.0,Male,132,90,173.32216489050867,T2DM,T2DM,pt c/o cp last wk
+1251,35.0,Female,107,,77.85009930737627,Reactive airway disease,Asthma,nl exam
+1252,50.0,Male,108,67,78.0102923045409,Asthma,Asthma,
+1253,37.0,Male,139,89,115.78429377815056,I25.10,CAD,lab pending
+1254,46.0,Male,111,78,56.41681520140466,adult-onset diabetes,T2DM,lab pending
+1255,86.0,Female,105,76,101.69006417376397,adult-onset diabetes,T2DM,lab pending
+1256,24.0,Male,140,58,78.86447470372423,adult-onset diabetes,T2DM,—
+1257,46.0,Unknown,134,57,88.08886237756617,I25.10,CAD,"bp high, ?adherence"
+1258,51.0,Male,145,79,123.31180962554336,I10,HTN,—
+1259,63.0,Male,134,98,-20.0,htn,HTN,—
+1260,61.0,Male,158,,64.17824078535077,Chronic obstructive pulmonary disease,COPD,Check A1C @ next visit
+1261,34.0,F,126,,100.07079642795851,Unknown,Other,unclear hx
+1262,59.0,F,111,,111.95903967633406,,Other,
+1263,86.0,Male,131,92,129.8763061987173,COPD,COPD,"bp high, ?adherence"
+1264,,Male,155,86,116.36662178573172,HTN,HTN,lab pending
+1265,73.0,M,152,83,59.20237470232754,htn,HTN,Check A1C @ next visit
+1266,56.0,Male,110,82,131.34426538479394,Chronic obstructive pulmonary disease,COPD,lost followup
+1267,72.0,Unknown,104,87,92.30965128042001,J45.909,Asthma,"bp high, ?adherence"
+1268,76.0,Female,125,78,125.25439587133025,J44.9,COPD,lab pending
+1269,79.0,Female,118,72,85.79043224862227,probable DM2,T2DM,
+1270,35.0,Male,113,94,107.5444839945243,Type II DM,T2DM,lab pending
+1271,46.0,F,107,95,112.46011631008164,Chronic obstructive pulmonary disease,COPD,unclear hx
+1272,30.0,Unknown,108,84,69.45456762628271,CAD,CAD,Check A1C @ next visit
+1273,89.0,F,134,10,85.83031589773414,J45.909,Asthma,pt c/o cp last wk
+1274,26.0,F,132,72,72.1442724855073,J45.909,Asthma,unclear hx
+1275,77.0,Female,109,82,113.53274754270893,T2DM,T2DM,improved on meds
+1276,23.0,Male,102,81,130.73972081332013,COPD,COPD,
+1277,23.0,Male,119,105,74.17817839560159,Chronic kidney disease stage 3,CKD,lost followup
+1278,70.0,Female,132,72,33.0280857451626,Type II DM,T2DM,—
+1279,23.0,F,132,70,77.43849911992699,High blood pressure,HTN,improved on meds
+1280,29.0,Male,150,76,126.57125382793569,Reactive airway disease,Asthma,pt c/o cp last wk
+1281,40.0,Female,177,91,90.29957276702439,CAD,CAD,lab pending
+1282,43.0,Female,136,74,96.85359959552788,Chronic obstructive pulmonary disease,COPD,lab pending
+1283,,M,126,101,81.72597552823675,rule-out HTN,HTN,lost followup
+1284,18.0,Male,124,76,85.34503548996099,High blood pressure,HTN,pt c/o cp last wk
+1285,65.0,Male,97,78,140.22998630153367,Chronic kidney disease stage 3,CKD,nl exam
+1286,49.0,Male,143,73,68.97664987207972,Type II DM,T2DM,unclear hx
+1287,49.0,Female,,71,63.04689785406882,E11.9,T2DM,lost followup
+1288,76.0,Female,135,86,,DM2,T2DM,nl exam
+1289,,,126,78,120.85027071169107,diabtes type 2,T2DM,lost followup
+1290,74.0,Female,121,82,113.94912848941429,Type II DM,T2DM,lost followup
+1291,81.0,F,139,69,151.5121270324952,,Other,nl exam
+1292,32.0,Male,145,65,114.71015511902148,COPD,COPD,lost followup
+1293,39.0,Male,,65,92.73660625582865,CKD3,CKD,
+1294,26.0,F,105,68,119.45626019555976,RAD,Asthma,pt c/o cp last wk
+1295,52.0,Female,146,59,128.201422458912,I25.10,CAD,lost followup
+1296,49.0,Male,130,65,105.35121108868948,HBP,HTN,improved on meds
+1297,23.0,Female,134,78,113.98606686488105,E11.9,T2DM,improved on meds
+1298,25.0,Female,114,86,96.74866158375933,J45.909,Asthma,lab pending
+1299,66.0,Male,128,107,105.82794292803557,Reactive airway disease,Asthma,pt c/o cp last wk
+1300,52.0,F,128,66,101.11022070761604,Ischemic heart disease,CAD,Check A1C @ next visit
+1301,23.0,F,109,96,58.44979732865549,HBP,HTN,"bp high, ?adherence"
+1302,72.0,Female,156,,79.76515393314723,Chronic kidney disease stage 3,CKD,unclear hx
+1303,31.0,Male,132,91,115.98141791984614,I10,HTN,improved on meds
+1304,55.0,Male,133,96,87.20914203303926,—,Other,"bp high, ?adherence"
+1305,76.0,Unknown,114,104,81.08002830734281,HBP,HTN,lab pending
+1306,72.0,Female,143,,63.764978953469246,CAD,CAD,lab pending
+1307,65.0,Female,121,73,122.01412264262586,rule-out HTN,HTN,unclear hx
+1308,51.0,Male,157,86,91.89266072917654,Chronic kidney disease stage 3,CKD,lost followup
+1309,,Female,133,88,76.57505363679132,Reactive airway disease,Asthma,nl exam
+1310,48.0,,170,86,139.70906125281533,CAD,CAD,nl exam
+1311,28.0,F,103,71,,HTN,HTN,—
+1312,38.0,Female,119,84,73.34650045933765,HBP,HTN,lab pending
+1313,62.0,Male,121,88,67.05989409162711,Type II DM,T2DM,pt c/o cp last wk
+1314,31.0,Female,126,80,80.20953029158771,Chronic kidney disease stage 3,CKD,
+1315,30.0,Female,103,68,113.70406108211445,Diabetes mellitus type 2,T2DM,lab pending
+1316,21.0,F,115,96,127.63042697559979,J45.909,Asthma,pt c/o cp last wk
+1317,28.0,Male,100,70,103.99394331801486,N18.3,CKD,"bp high, ?adherence"
+1318,44.0,M,146,91,146.8904575978042,I10,HTN,Check A1C @ next visit
+1319,89.0,,118,91,91.63110527405495,Type 2 diabetes,T2DM,unclear hx
+1320,67.0,Male,136,81,45.00220023354069,COPD (unspecified),COPD,
+1321,37.0,Female,112,79,91.98618722053772,probable DM2,T2DM,Check A1C @ next visit
+1322,22.0,Female,123,78,131.60445583313967,Reactive airway disease,Asthma,unclear hx
+1323,66.0,F,112,85,70.46758337810063,probable DM2,T2DM,
+1324,999.0,Male,,,129.45515274802932,,Other,pt c/o cp last wk
+1325,46.0,Male,145,,,Hypertension,HTN,unclear hx
+1326,86.0,Female,113,89,90.80133216994938,type2 diabetes,T2DM,
+1327,24.0,F,126,55,115.92546281882998,diabtes type 2,T2DM,Check A1C @ next visit
+1328,85.0,Male,135,61,60.49756944234879,htn,HTN,improved on meds
+1329,56.0,Male,125,61,162.79233624642563,Ischemic heart disease,CAD,nl exam
+1330,80.0,M,,85,-20.0,Type 2 diabetes,T2DM,lab pending
+1331,63.0,Male,117,78,108.93206409260746,rule-out HTN,HTN,lost followup
+1332,85.0,M,130,77,59.285825916736826,T2DM,T2DM,Check A1C @ next visit
+1333,25.0,Female,84,89,87.89147077287114,CAD,CAD,unclear hx
+1334,34.0,Female,138,58,77.63599098530658,Asthma,Asthma,lost followup
+1335,82.0,F,124,73,70.56098359103991,Hypertension,HTN,improved on meds
+1336,50.0,Female,92,50,125.56461346256536,Ischemic heart disease,CAD,Check A1C @ next visit
+1337,26.0,Female,162,83,79.76404962793586,,Other,"bp high, ?adherence"
+1338,20.0,Male,134,91,65.0003464769805,CKD stage iii,CKD,lab pending
+1339,51.0,F,300,,63.41648291333598,I10,HTN,"bp high, ?adherence"
+1340,56.0,F,114,76,111.162121102573,Ischemic heart disease,CAD,—
+1341,89.0,F,143,91,79.22305954344556,Coronary artery disease,CAD,pt c/o cp last wk
+1342,46.0,Male,,74,,COPD,COPD,"bp high, ?adherence"
+1343,77.0,Female,142,72,109.23318588380866,Type 2 diabetes,T2DM,lost followup
+1344,32.0,Female,106,84,101.1861612377596,Chronic obstructive pulmonary disease,COPD,lost followup
+1345,66.0,Female,145,74,71.92297219851413,E11.9,T2DM,lab pending
+1346,53.0,,126,,,CKD stage iii,CKD,unclear hx
+1347,31.0,Male,,103,95.32164568575057,adult-onset diabetes,T2DM,improved on meds
+1348,80.0,M,156,72,105.41161645179403,—,Other,Check A1C @ next visit
+1349,78.0,F,141,82,140.99852802254009,Type II diabetes,T2DM,lab pending
+1350,47.0,Female,151,83,123.27085873437908,Asthma,Asthma,—
+1351,47.0,Male,151,73,96.12635858661808,T2DM,T2DM,Check A1C @ next visit
+1352,,Male,142,73,105.55666924184017,probable DM2,T2DM,improved on meds
+1353,22.0,M,143,86,89.29839690668715,RAD,Asthma,lost followup
+1354,32.0,Female,143,94,95.77181495825977,Ischemic heart disease,CAD,unclear hx
+1355,24.0,Female,102,77,75.09588402961307,CKD3,CKD,pt c/o cp last wk
+1356,,Female,94,80,80.70110817146926,—,Other,—
+1357,27.0,Female,156,81,84.6512049661345,CKD3,CKD,—
+1358,42.0,,164,104,76.50367962331727,E11.9,T2DM,—
+1359,77.0,M,156,98,90.48856119237729,type2 diabetes,T2DM,
+1360,18.0,F,300,99,40.967222135836735,Asthma,Asthma,improved on meds
+1361,84.0,Female,159,72,103.77659301255217,rule-out HTN,HTN,nl exam
+1362,52.0,F,120,76,69.67184363267808,—,Other,lost followup
+1363,29.0,F,122,88,119.86147063288196,diabtes type 2,T2DM,"bp high, ?adherence"
+1364,41.0,Male,167,90,95.63612587794364,diabtes type 2,T2DM,nl exam
+1365,33.0,,112,79,83.85706638776148,E11.9,T2DM,nl exam
+1366,63.0,Male,155,74,89.94764271090729,CKD3,CKD,improved on meds
+1367,64.0,Female,150,10,92.5877222171114,RAD,Asthma,lab pending
+1368,62.0,Female,100,93,121.02618492794686,HBP,HTN,lab pending
+1369,42.0,M,136,60,89.93269014329749,I10,HTN,lost followup
+1370,65.0,Female,126,69,122.17725863011552,CAD,CAD,Check A1C @ next visit
+1371,,M,146,61,79.98691354811,—,Other,nl exam
+1372,70.0,M,147,67,106.19577863347642,E11.9,T2DM,—
+1373,78.0,Male,149,88,96.71594840564673,Hypertension,HTN,
+1374,57.0,Female,153,89,64.73308441193052,,Other,—
+1375,66.0,Female,144,84,117.92611092854983,CAD,CAD,pt c/o cp last wk
+1376,36.0,Female,131,83,103.8935221504886,HTN,HTN,lab pending
+1377,45.0,Male,132,93,103.9959056612211,T2DM,T2DM,pt c/o cp last wk
+1378,26.0,Male,124,73,88.30203260697198,J44.9,COPD,lost followup
+1379,,M,87,86,147.3815461555427,DM2,T2DM,"bp high, ?adherence"
+1380,71.0,Female,101,74,120.85125699727786,RAD,Asthma,"bp high, ?adherence"
+1381,75.0,F,130,87,97.51959064317894,COPD,COPD,lost followup
+1382,41.0,Male,95,59,69.6543291820294,Hypertension,HTN,lost followup
+1383,37.0,F,101,,119.59837747463112,E11.9,T2DM,nl exam
+1384,31.0,Male,104,69,144.34217780189005,CAD,CAD,"bp high, ?adherence"
+1385,71.0,Male,153,78,90.83638210188283,rule-out HTN,HTN,unclear hx
+1386,84.0,Male,135,,127.79992381442926,DM2,T2DM,—
+1387,65.0,F,163,71,98.01519453789987,CKD3,CKD,pt c/o cp last wk
+1388,76.0,F,101,68,99.62616166851463,COPD (unspecified),COPD,unclear hx
+1389,31.0,Female,140,85,109.41345980850879,Type 2 diabetes,T2DM,Check A1C @ next visit
+1390,88.0,Female,136,94,,CKD3,CKD,pt c/o cp last wk
+1391,26.0,F,162,80,62.28279453024208,htn,HTN,—
+1392,74.0,Female,114,101,145.89190151768543,Hypertension,HTN,"bp high, ?adherence"
+1393,37.0,Male,174,94,39.962482293454016,htn,HTN,Check A1C @ next visit
+1394,72.0,Female,134,81,98.521129123778,E11.9,T2DM,lab pending
+1395,,Female,155,92,73.11642165961698,probable DM2,T2DM,pt c/o cp last wk
+1396,72.0,F,168,92,110.88094177538615,rule-out HTN,HTN,—
+1397,28.0,M,147,79,90.9744960072046,CKD3,CKD,nl exam
+1398,20.0,,165,93,149.2686918230109,type2 diabetes,T2DM,unclear hx
+1399,75.0,Male,130,83,85.59659805100442,E11.9,T2DM,lab pending
+1400,50.0,,150,78,77.56485706093294,J44.9,COPD,Check A1C @ next visit
+1401,60.0,Female,,86,115.40786386016798,J45.909,Asthma,lost followup
+1402,88.0,M,,100,84.25849629528854,RAD,Asthma,"bp high, ?adherence"
+1403,54.0,Female,153,84,150.29864983453982,COPD (unspecified),COPD,nl exam
+1404,83.0,Female,135,75,39.21282319778769,adult-onset diabetes,T2DM,Check A1C @ next visit
+1405,72.0,Male,119,86,117.90470461814708,J45.909,Asthma,improved on meds
+1406,60.0,Male,157,76,118.95230413565422,High blood pressure,HTN,—
+1407,29.0,Female,141,89,106.8904627933364,DM2,T2DM,pt c/o cp last wk
+1408,61.0,Male,121,91,142.1647606392446,Ischemic heart disease,CAD,improved on meds
+1409,70.0,Female,128,93,117.24241754530833,COPD,COPD,lab pending
+1410,55.0,Female,96,62,88.4772761815205,I10,HTN,improved on meds
+1411,28.0,Female,300,89,120.6069020420216,probable DM2,T2DM,—
+1412,47.0,Male,91,81,82.01654307556167,RAD,Asthma,—
+1413,52.0,M,106,86,84.15995494411725,Asthma,Asthma,lab pending
+1414,73.0,Female,101,80,115.64606510649187,Type II DM,T2DM,lab pending
+1415,74.0,Male,123,68,91.40349193294841,J45.909,Asthma,
+1416,89.0,,124,72,83.33456802193817,Type II diabetes,T2DM,"bp high, ?adherence"
+1417,29.0,F,115,61,52.53287356869453,Diabetes mellitus type 2,T2DM,lost followup
+1418,49.0,M,120,10,84.76159111562947,—,Other,lab pending
+1419,49.0,F,115,77,86.21590721881117,Hypertension,HTN,—
+1420,86.0,Male,73,58,101.86383285148983,CAD,CAD,—
+1421,71.0,Male,120,88,84.8520300842886,Reactive airway disease,Asthma,unclear hx
+1422,47.0,Male,75,81,130.26948417736477,diabtes type 2,T2DM,—
+1423,79.0,Male,143,82,89.96169811154527,J44.9,COPD,improved on meds
+1424,,M,124,80,74.49593279257726,CAD,CAD,—
+1425,32.0,Male,131,87,118.14516073855224,Type II DM,T2DM,—
+1426,55.0,,109,81,159.31740874031647,I10,HTN,—
+1427,70.0,Female,132,71,116.93538340144852,CKD stage iii,CKD,unclear hx
+1428,21.0,F,124,56,114.82032403294397,—,Other,unclear hx
+1429,86.0,Female,133,91,100.20259454213524,E11.9,T2DM,nl exam
+1430,999.0,Female,122,71,92.44151554600646,rule-out HTN,HTN,
+1431,27.0,Female,118,72,70.88539723788892,COPD (unspecified),COPD,lost followup
+1432,58.0,M,93,81,99.52748865167402,E11.9,T2DM,unclear hx
+1433,29.0,Female,149,83,102.97715667563577,High blood pressure,HTN,improved on meds
+1434,,F,141,70,101.04418164274155,Reactive airway disease,Asthma,—
+1435,22.0,Male,,71,112.18600482121455,Reactive airway disease,Asthma,—
+1436,62.0,Male,122,71,100.10200837554274,CKD3,CKD,unclear hx
+1437,39.0,Female,110,79,129.5991074590595,adult-onset diabetes,T2DM,
+1438,28.0,Male,131,91,151.91943419496855,Reactive airway disease,Asthma,lab pending
+1439,38.0,Male,129,75,156.18722897991978,HBP,HTN,lost followup
+1440,21.0,,127,74,80.29835809578748,Type II diabetes,T2DM,nl exam
+1441,76.0,F,109,10,95.41378320962657,Coronary artery disease,CAD,—
+1442,27.0,Female,104,69,112.54512510972847,J45.909,Asthma,"bp high, ?adherence"
+1443,57.0,Female,138,89,114.86448495790962,I25.10,CAD,—
+1444,67.0,Female,131,97,75.28394076722657,Asthma,Asthma,Check A1C @ next visit
+1445,80.0,Male,131,76,99.99596566194681,Ischemic heart disease,CAD,
+1446,48.0,Male,152,65,64.28427011658897,RAD,Asthma,nl exam
+1447,82.0,Male,161,,114.67525310114691,type2 diabetes,T2DM,Check A1C @ next visit
+1448,45.0,Male,170,90,132.61365801368112,HTN,HTN,—
+1449,47.0,Male,144,89,121.52591452972493,Asthma,Asthma,Check A1C @ next visit
+1450,64.0,F,,76,128.2156788548685,Diabetes mellitus type 2,T2DM,—
+1451,52.0,F,,79,36.92647553873128,Type II diabetes,T2DM,nl exam
+1452,30.0,,,67,97.42572115878014,CKD3,CKD,—
+1453,59.0,M,115,76,109.90658257311186,I10,HTN,
+1454,64.0,Male,153,77,,E11.9,T2DM,"bp high, ?adherence"
+1455,68.0,Female,140,,,Type II DM,T2DM,lab pending
+1456,,Unknown,115,87,81.28102539159826,RAD,Asthma,"bp high, ?adherence"
+1457,79.0,M,,90,136.9273541852963,Ischemic heart disease,CAD,improved on meds
+1458,39.0,F,122,77,115.43073088193941,Chronic obstructive pulmonary disease,COPD,"bp high, ?adherence"
+1459,51.0,Male,167,67,108.33966337985606,—,Other,—
+1460,26.0,Male,90,85,67.36897836765161,CKD stage iii,CKD,lab pending
+1461,19.0,,105,65,109.43334178426687,I10,HTN,nl exam
+1462,28.0,Female,130,83,85.26800018624957,probable DM2,T2DM,nl exam
+1463,51.0,F,140,87,103.00913709456967,rule-out HTN,HTN,unclear hx
+1464,64.0,Female,124,116,122.96617525786135,Type II diabetes,T2DM,lost followup
+1465,47.0,Female,141,76,94.2182875987935,Ischemic heart disease,CAD,lab pending
+1466,82.0,M,140,78,72.88249316163426,type2 diabetes,T2DM,lab pending
+1467,47.0,Female,169,88,109.49308153821181,J45.909,Asthma,improved on meds
+1468,30.0,Male,141,93,108.556360259232,T2DM,T2DM,pt c/o cp last wk
+1469,53.0,F,119,90,118.69797827478318,Coronary artery disease,CAD,nl exam
+1470,70.0,,132,,138.64777006123649,I10,HTN,lab pending
+1471,68.0,F,144,85,128.1438583530328,High blood pressure,HTN,—
+1472,34.0,M,300,74,78.26671233994522,DM2,T2DM,pt c/o cp last wk
+1473,40.0,F,138,,104.65966888496142,HTN,HTN,"bp high, ?adherence"
+1474,87.0,F,300,70,-20.0,T2DM,T2DM,lost followup
+1475,28.0,Male,114,106,100.15746243200287,Reactive airway disease,Asthma,nl exam
+1476,76.0,Unknown,,,44.45923998135335,Type 2 diabetes,T2DM,
+1477,46.0,Male,133,81,141.26517526790576,I10,HTN,Check A1C @ next visit
+1478,28.0,Male,120,101,,N18.3,CKD,unclear hx
+1479,68.0,M,120,77,77.1959319286162,—,Other,improved on meds
+1480,26.0,Male,179,75,67.08269393384296,Hypertension,HTN,Check A1C @ next visit
+1481,75.0,F,112,71,116.94631930422757,Diabetes mellitus type 2,T2DM,Check A1C @ next visit
+1482,25.0,,146,72,137.23723642216646,Ischemic heart disease,CAD,lost followup
+1483,72.0,M,141,102,93.60364867609894,Type 2 diabetes,T2DM,improved on meds
+1484,32.0,Male,132,84,125.35318497526936,Unknown,Other,lost followup
+1485,67.0,Male,94,89,102.87925504437447,adult-onset diabetes,T2DM,Check A1C @ next visit
+1486,56.0,F,144,103,106.36532112004343,Chronic obstructive pulmonary disease,COPD,unclear hx
+1487,88.0,M,133,77,134.29466739237927,type2 diabetes,T2DM,pt c/o cp last wk
+1488,83.0,Female,131,88,,diabtes type 2,T2DM,pt c/o cp last wk
+1489,57.0,Male,131,69,111.9485227864696,COPD,COPD,lost followup
+1490,89.0,Male,93,69,,I25.10,CAD,
+1491,43.0,Female,157,80,124.38010566133038,Asthma,Asthma,lab pending
+1492,59.0,Female,122,92,93.74671630278247,htn,HTN,"bp high, ?adherence"
+1493,31.0,Female,101,86,65.4222386212242,DM2,T2DM,lab pending
+1494,30.0,F,136,,126.71899087034356,HTN,HTN,
+1495,51.0,Male,99,68,154.8235827873753,type2 diabetes,T2DM,"bp high, ?adherence"
+1496,61.0,Male,,76,95.68347839959522,rule-out HTN,HTN,—
+1497,40.0,Female,112,63,133.2943088991161,CKD3,CKD,
+1498,41.0,Female,300,74,124.88173870679579,Chronic obstructive pulmonary disease,COPD,unclear hx
+1499,18.0,Female,122,43,91.37913987379946,Chronic kidney disease stage 3,CKD,lost followup
