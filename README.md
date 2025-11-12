@@ -28,6 +28,7 @@
   ## 🛠️ Technical Resources
 
   ### Data Access & Management
+  - **[Generate Synthetic Data](Synthetic_Analysis_GI.ipynb)** - Learn to Generate Synthetic Data - use Gemini in Colab! This notebook is an example.
   - **[Retrieve Public Datasets](Retrieve_Public_Datasets.ipynb)** - Methods for accessing and working with public health datasets
 
   ### Local Development Environment
