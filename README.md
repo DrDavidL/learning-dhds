@@ -60,6 +60,11 @@
   - Consider the ethical implications of AI in healthcare throughout your learning journey
   - Join relevant communities and forums to discuss concepts and get help
 
+  ## Policy 
+
+  - **[Northwestern University AI Policy](https://www.it.northwestern.edu/about/policies/guidance-on-the-use-of-generative-ai.html)
+  - **[Northwestern FSM AI Policy](https://www.feinberg.northwestern.edu/md-education/docs/policies/professionalism-learning-environment/use-of-generative-ai-tools-policy.pdf)
+
   ---
 
   *This repository serves as a launching pad for digital health and data science education. The resources combine practical coding skills with real-world healthcare applications.*
