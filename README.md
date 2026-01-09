@@ -37,7 +37,7 @@ Sequential notebooks covering essential data science concepts:
 ### Data Access & Management
 - **[Generate Synthetic Data](Synthetic_Analysis_GI.ipynb)** - Learn to Generate Synthetic Data - use Gemini in Colab! This notebook is an example.
 - **[Retrieve Public Datasets](Retrieve_Public_Datasets.ipynb)** - Methods for accessing and working with public health datasets
-- **[Data Cleaning Workbook](https://colab.research.google.com/drive/1zMk7trXOQITDn_yS2hXM7KG4D5p6mKDF?usp=sharing)** - Practice cleaning and preparing real-world messy datasets
+- **[Using Gemini in Colab](https://colab.research.google.com/drive/1zMk7trXOQITDn_yS2hXM7KG4D5p6mKDF?usp=sharing)** - Learn to use Google's Gemini AI within Colab notebooks
 
 ### Local Development Environment
 - **[Run Local LLM in Notebook](https://github.com/DrDavidL/local-llm)** - Setting up local language models
