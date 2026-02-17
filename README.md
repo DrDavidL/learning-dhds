@@ -24,6 +24,8 @@ Sequential notebooks covering essential data science concepts:
 ## 🔬 Specialized Applications
 
 ### Healthcare Case Studies
+- **[DHDS Session 1: Intro to AI Tools & Pulmonary Data Exploration](DHDS_Session1_Colab_Notebook.ipynb)** - Synthetic pulmonary dataset exploration with visualizations and Gemini AI assistance
+- **[DHDS Session 2: CKD Progression Predictor](DHDS_Session2_CKD_Predictor.ipynb)** - Build a Random Forest model for CKD progression with confusion matrix, ROC/AUPRC, and SHAP explainability
 - **[Stroke AI Generated Analysis (Completed)](Stroke_AI_Analysis.ipynb)** - AI-powered stroke data analysis with LLM integration
 - **[Stroke Analysis - Your Turn](Stroke_Your_Turn_with_LLM_Analysis.ipynb)** - Hands-on stroke analysis practice with LLM tools
 
